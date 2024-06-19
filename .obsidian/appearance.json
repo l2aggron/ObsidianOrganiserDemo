@@ -1,0 +1,8 @@
+{
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "bullet-margin",
+    "lesser-headers-space"
+  ],
+  "baseFontSize": 18
+}

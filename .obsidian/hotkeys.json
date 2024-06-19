@@ -1,0 +1,120 @@
+{
+  "obsidian-hotkeys-for-templates:templater:pipe.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "\\"
+    }
+  ],
+  "app:open-help": [],
+  "obsidian-hotkeys-for-templates:templater:today.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [],
+      "key": "F6"
+    }
+  ],
+  "obsidian-hotkeys-for-templates:templater:current time.md": [
+    {
+      "modifiers": [],
+      "key": "F1"
+    }
+  ],
+  "obsidian-tasks-plugin:edit-task": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F5"
+    }
+  ],
+  "obsidian-tasks-plugin:toggle-done": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
+  ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "["
+    }
+  ],
+  "editor:toggle-checklist-status": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:cycle-list-checklist": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ],
+  "obsidian-hotkeys-for-templates:templater:atomic task.md": [
+    {
+      "modifiers": [],
+      "key": "F4"
+    }
+  ],
+  "create-note-in-folder:working task": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "`"
+    }
+  ],
+  "create-note-in-folder:personal task": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
+  ],
+  "obsidian-markdown-formatting-assistant-plugin:open-command-selector": [],
+  "file-explorer:reveal-active-file": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
+  ],
+  "templater-obsidian:insert-templater": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
+    }
+  ],
+  "periodic-notes:open-daily-note": [
+    {
+      "modifiers": [],
+      "key": "F6"
+    }
+  ]
+}

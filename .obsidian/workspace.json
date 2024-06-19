@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "cc02303645cf4186",
+    "type": "split",
+    "children": [
+      {
+        "id": "1857b3e6c1810f74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ad567b3f206ab0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3338b8bb4b9549b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0dce4e570a445d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Data/Демонстрационное хранилище/Задачник/Личные дела на сегодня.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "856b7ea4a2d7602f",
+    "type": "split",
+    "children": [
+      {
+        "id": "37bff2d47cec3d90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cc6a2e8d025de3b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "325ca6e7b0af5ff8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b55be85d43cd83d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "b7dd351d775accbb",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "198a5359236555c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b43e1bda16f064c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1cbc92e87cb880e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0d313529d7d321d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "616773e448221dce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "62aced5303480637",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "6fdf9f29a15a7acf",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b0fdd12136f1611",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 490.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "6ad567b3f206ab0b",
+  "lastOpenFiles": [
+    "1 Periodic/2024-06-18.md",
+    "1 Periodic/2024-06.md",
+    "1 Periodic/2024-06-19.md",
+    "2 Data/Демонстрационное хранилище/Задачи/Личные/Сформировать настроенное хранилище с демо данными.md",
+    "README.md",
+    "2 Data/Демонстрационное хранилище/Задачник/Личные дела на сегодня.md",
+    "2 Data/Мой рабочий процесс.md",
+    "2 Data/Демонстрационное хранилище/Задачи/Рабочие/Рабочая задача.md",
+    "0 Spawning pool/Obsidian.md",
+    "0 Spawning pool/Бойцовский клуб.md",
+    "2 Data/Демонстрационное хранилище/Задачник/Рабочие задачи на сегодня.md",
+    "templates/daily.md",
+    "templates/today.md",
+    "2 Data/Демонстрационное хранилище/Задачник/Задачи все вместе.md",
+    "1 Periodic/2024-06-14.md",
+    "2 Data/Демонстрационное хранилище/Первые шаги.md",
+    "2 Data/Демонстрационное хранилище/Демонстрационное хранилище.md",
+    "1 Periodic/2024-06-16.md",
+    "1 Periodic/2024-06-17.md",
+    "2 Data/Демонстрационное хранилище/Горячие клавиши.md",
+    "2 Data/Демонстрационное хранилище/Трекер времени за месяц.md",
+    "templates/monthly.md",
+    "Periodic/2024-06",
+    "Periodic/Untitled.md",
+    "Data/Демонстрационное хранилище/Трекер времени",
+    "templates/atomic task.md",
+    "2 Data/Демонстрационное хранилище/Задачи/Рабочие/Настроить работу с задачами с помощью dataviewjs.md",
+    "2 Data/Демонстрационное хранилище/Задачник/Запланированные рабочие задачи.md",
+    "2 Data/Демонстрационное хранилище/Задачи/Личные",
+    "2 Data/Демонстрационное хранилище/Задачи/Рабочие",
+    "2 Data/Демонстрационное хранилище/Задачник",
+    "attachments/Pasted image 20240616044141.png",
+    "attachments/Pasted image 20240616043745.png",
+    "attachments/Pasted image 20240616043656.png",
+    "2 Data/Демонстрационное хранилище/Задачи",
+    "attachments/Pasted image 20240616035531.png",
+    "attachments/Pasted image 20240616035524.png",
+    "2 Data/Демонстрационное хранилище",
+    "2 Data",
+    "attachments/Pasted image 20240614040045.png",
+    "attachments/Pasted image 20240614030904.png",
+    "attachments/Pasted image 20240614033304.png",
+    "attachments/Pasted image 20240614032935.png",
+    "attachments/Pasted image 20240614031901.png",
+    "1 Periodic",
+    "templates"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "folder": [
+    {
+      "path": "2 Data/Демонстрационное хранилище/Задачи/Личные",
+      "commandName": "personal task",
+      "template": {
+        "type": "none",
+        "format": "",
+        "position": "append",
+        "separator": "",
+        "increment": true
+      },
+      "fileName": "Личная задача",
+      "opening": "newTab",
+      "focused": true,
+      "splitDefault": "horizontal",
+      "alreadyExistOpening": {
+        "opening": "newTab",
+        "splitDefault": "horizontal",
+        "focused": true
+      },
+      "fileMenu": false,
+      "templater": "templates/personal task.md"
+    },
+    {
+      "path": "2 Data/Демонстрационное хранилище/Задачи/Рабочие",
+      "commandName": "working task",
+      "template": {
+        "type": "none",
+        "format": "",
+        "position": "append",
+        "separator": "",
+        "increment": true
+      },
+      "fileName": "Рабочая задача",
+      "opening": "newTab",
+      "focused": true,
+      "splitDefault": "horizontal",
+      "alreadyExistOpening": {
+        "opening": "newTab",
+        "splitDefault": "horizontal",
+        "focused": true
+      },
+      "fileMenu": false,
+      "templater": "templates/working task.md"
+    }
+  ],
+  "customVariables": [],
+  "timeOutForInlineTitle": 50
+}

@@ -1,0 +1,36 @@
+{
+  "dateFormat": "yyyy-MM-dd HH:mm:ss (xxx), EEEE",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [
+    "templates"
+  ],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "templates/daily.md": "f9573fb54a6ad47bb01b01d1e3d23745032c66410e2d52a2825ae9009286511c",
+    "1 Periodic/2024-06-18.md": "993f7bd0fe90e4e05b24e53662bec4f8ea58ddc934341408a4e79f58619e35ee",
+    "1 Periodic/2024-06-14.md": "cff7e07e582c798d7c88082942668b2dcc850cbc2ccdfacc08aaecdb91124064",
+    "1 Periodic/2024-06-16.md": "74b9614238c091919811cb42fd5d329669b89d8f8b3a37895cc0f56c7a7007ad",
+    "1 Periodic/2024-06-17.md": "5e3b9474658e4d14104c203482be1ff2727ed19827846a6f4967143452f975ba",
+    "2 Data/Демонстрационное хранилище/Горячие клавиши.md": "6f92bf099a33bbbefbd787e82b5f9e2366ccc6e28a4b7b7e23248e2e7ffe0d9b",
+    "2 Data/Демонстрационное хранилище/Первые шаги.md": "8a68c16d9c0a538a1cdb676b356783ddcbdd44957f10f8b2c97fb03a8d5690c3",
+    "2 Data/Демонстрационное хранилище/Задачник/Задачи все вместе.md": "aa27aa3542b287081852420691c760f240c30fc635cf298439ab697ca80e8af8",
+    "2 Data/Демонстрационное хранилище/Задачник/Запланированные личные дела.md": "0788870dd4e9633dbbc8ff61daa0399a186afc560f59d730b03b47ff6fbe66ea",
+    "2 Data/Демонстрационное хранилище/Задачник/Запланированные рабочие задачи.md": "5b25f76b5da8c24363892a6f2a1a2b056e44b57cb8ecce87402a00754b3f5164",
+    "2 Data/Демонстрационное хранилище/Задачник/Личные дела на сегодня.md": "a1b18eaeacbee0bcd4cc44ec9a4931e4c2e6508181febefa3b8e3216599e20d5",
+    "2 Data/Демонстрационное хранилище/Задачник/Рабочие задачи на сегодня.md": "8926774e944356e8eb447a35fff35d5d85ace6d05894ae823beaa657401145e9",
+    "2 Data/Демонстрационное хранилище/Задачи/Личные/Настроить плагин tasks.md": "a4351639f0d96aa2ce7c4874bcb370e1c716b033de57ddaa04ccac2df900b6f4",
+    "2 Data/Демонстрационное хранилище/Задачи/Личные/Сформировать настроенное хранилище с демо данными.md": "9504ad5ab8cbd473876c91d305049cac53b0e7d82176bd18d1ee6ffbb9efe584",
+    "2 Data/Демонстрационное хранилище/Задачи/Рабочие/Настроить работу с задачами с помощью dataviewjs.md": "6819fde6d4cf9a7a60563e88dfa65d7abe2fcd823dea33a253ba185514e31482",
+    "1 Periodic/2024-06.md": "559d30c439320e8048b801536613791cb8072e04fb3663927f295e6b54860650",
+    "1 Periodic/2024-06-19.md": "30cf4c6969b5356130d9759c3c75520e199cb27e62e6e40bbf5ec3d5c57a7009",
+    "README.md": "37f5bc019bed2b1ebf2c5d2633db4456cf6a855bd69d897d4bc3b9745f481197",
+    "0 Spawning pool/Бойцовский клуб.md": "d960eae222927b437f107a7a9e4726594eb1472040fd61a4265ae65845dd830b",
+    "2 Data/Мой рабочий процесс.md": "cb4003ce6f8f9b6cfeefe8a4f70ec9d5fd4a96aa7772992c13189272d31660f1",
+    "0 Spawning pool/Obsidian.md": "81815cefa3621e3f642a121cd230e91657b19d8bf2eea68d28ec96fdda22bd93",
+    "2 Data/Демонстрационное хранилище/Задачи/Рабочие/Рабочая задача.md": "32745571e83ef2327888a798ffb6a584d97d74ee71a2019422f14fa8971ea5c3"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "files": [],
+  "templaterFiles": [
+    "current time.md",
+    "daily.md",
+    "pipe.md",
+    "today.md",
+    "atomic task.md"
+  ],
+  "newFileTemplates": [],
+  "openNewFileTemplateInNewPane": true,
+  "useNewFileTemplateOnFileCreation": false
+}
